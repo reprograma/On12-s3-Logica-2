@@ -216,7 +216,7 @@ Vamos debugar para perceber como funciona?
 
 <br>
 
-#### 6.5 **Exemplos:**
+#### 4. **Exemplos:**
 
 | Exemplo 01 | Descrição |
 | --- | --- |
@@ -236,15 +236,37 @@ Vamos debugar para perceber como funciona?
 
 | Exemplo 05 | Descrição |
 | --- | --- |
-| `conversor de temperatura` | Crie uma função que recebe uma temperatura em graus celsius retorna o valor convertido em Fahrenheit. |
+| `Conversor de temperatura` | Crie uma função que recebe uma temperatura em graus celsius retorna o valor convertido em Fahrenheit. |
 
 | Exemplo 06 | Descrição |
 | --- | --- |
 | `Fatorial` | Crie uma função que irá receber um número e retornar o fatorial dele. por exemplo:  3! = 3 * 2 * 1 // 6 |
 
-```
-Irei incluir mais 4 exercícios
-```
+| Exemplo 07 | Descrição |
+| --- | --- |
+| `Multiplica` | Crie uma função que recebe 2 parâmetros e retorna a multiplicação entre else. |
+
+| Exemplo 08 | Descrição |
+| --- | --- |
+| `Porcentagem` | Crie uma função que calcula 5% de desconto retornando o valor do desconto.|
+
+| Exemplo 09 | Descrição |
+| --- | --- |
+| `Conversor de moeda` | Crie uma função que irá converter uma quantia de real para dolar utilizando a cotação do dia. |
+
+| Exemplo 10 | Descrição |
+| --- | --- |
+| `For/Break/Continue` | Utilize a estrutura de repetição for para imprimir no console  conforme instruções: 
+    a) números de 1 a 50  
+    b) quando chegar no número 25 interrompa a instrução e pare o loop 
+    c) quando chegar no número 10 pule a instrução|
+
+| Exemplo 11 | Descrição |
+| --- | --- |
+| `10 em 10` | Imprima na tela a partir de 20 e depois de 10 em 10 até o 100, mas em vez dos numeros 60 e 90 imprima a palavra "CONTINUE".|
+
+
+
 <br>
 
 
@@ -256,10 +278,27 @@ Irei incluir mais 4 exercícios
 Resolva as questões abaixo: 
 
 > Passo a passo:
-1) Crie uma pasta que irá conter um arquivo  com extensão .js para cada questão abaixo de apenas um README.md
+1) Crie uma pasta que irá conter um arquivo com extensão .js para cada questão abaixo e apenas um README.md
 
 ```
-    Irei definir a tarefinha de casa
+1 - crie um algoritmo que imprime no console de 10 a 60, iterando a cada 5, exceto para os numeros 35 e 45 que irão ser substituidos pela palavra "PULOU".
+
+2 - crie um algoritmo que converte dias em horas, quando recebe um número de dias.
+
+3 - Crie uma função que recebe 2 parâmetros e retorna o resultado da divisão entre eles. Além disso, se o resto dessa divisão for zero deverá imprimir no console o valor e dizer que ele é par.
+
+4 - Utilize a estrutura de repetição for para imprimir no console  conforme instruções abaixo: 
+    a) números de 1 a 100  
+    b) quando chegar no número 50 interrompa a instrução e pare o loop 
+    c) quando chegar no número 50 pule a instrução 
+
+5 - Vamos criar uma calculadora com as 4 operações matemáticas básicas? rs
+
+a) Deverá ser possível escolher uma operação aritimética em forma de string: 'soma', 'multiplicacao', 'divisao' e 'subtracao'
+b) Deverá ser possível passar 2 números para a operação escolhida
+c) Deverá retornar o resultado e imprimir no console
+ 
+
 ```
 2) A entrega é pelo classroom
 
