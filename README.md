@@ -265,6 +265,15 @@ Vamos debugar para perceber como funciona?
 | --- | --- |
 | `10 em 10` | Imprima na tela a partir de 20 e depois de 10 em 10 até o 100, mas em vez dos numeros 60 e 90 imprima a palavra "CONTINUE".|
 
+| Exemplo 12 | Descrição |
+| --- | --- |
+| `conta bancária` | Vamos criar uma conta bancária com as 3 operações básicas? rs
+    a) A conta deverá iniciar com o saldo de 100
+    b) Deverá ser possível escolher uma operação em forma de string: 'depositar', 'sacar', 'consultar saldo'
+    c) Deverá ser possível passar 1 valor para a operação escolhida
+    d) Deverá retornar o resultado e imprimir no console o saldo atual
+|
+
 
 
 <br>
@@ -287,7 +296,7 @@ Resolva as questões abaixo:
 
 3 - Crie uma função que recebe 2 parâmetros e retorna o resultado da divisão entre eles. Além disso, se o resto dessa divisão for zero deverá imprimir no console o valor e dizer que ele é par.
 
-4 - Utilize a estrutura de repetição for para imprimir no console  conforme instruções abaixo: 
+4 - Utilize a estrutura de repetição for para imprimir no console conforme instruções abaixo: 
     a) números de 1 a 100  
     b) quando chegar no número 50 interrompa a instrução e pare o loop 
     c) quando chegar no número 50 pule a instrução 
@@ -297,7 +306,6 @@ Resolva as questões abaixo:
 a) Deverá ser possível escolher uma operação aritimética em forma de string: 'soma', 'multiplicacao', 'divisao' e 'subtracao'
 b) Deverá ser possível passar 2 números para a operação escolhida
 c) Deverá retornar o resultado e imprimir no console
- 
 
 ```
 2) A entrega é pelo classroom
