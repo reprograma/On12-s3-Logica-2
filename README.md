@@ -48,10 +48,10 @@ A verdade é que na vida real, todas nós temos também tarefas e rotinas que se
 Exemplo jogar o lixo. Todas as segundas, quartas e sextas, eu posso jogar lixo organico.
 Todas as tercas e quintas, eu posso jogar o lixo reciclável.
 
-- chamada -> nos dias e horários referentes 
-- parâmetros -> o lixo
+- chamada -> nos dias referentes 
+- parâmetros -> dia
 - ação -> separar o lixo, amarrar o saco, levar até ao local destinado
-- retorno -> lixo descartado com sucesso
+- retorno -> dia informando qual lixo jogar
 
 E trazendo isso para o mundo do javascript, podemos criar um programa que me lembra de jogar o lixo corretamente. Vamos lá?
 
@@ -76,7 +76,7 @@ Quando precisamos de uma instrução, uma ação que pode ser executada em difer
 
 2. Declaração
 - Usamos a palavra reservada function
-- Podemos dar um nome ou deixála anônima
+- Podemos dar um nome ou deixá-la anônima
 - não esequecer de usar os parenteses, nele podemos passar parametros ou nao
 - e dentro das chaves colocamos as instruções que podem ter um retorno ou não
 
@@ -166,7 +166,7 @@ for é a estrutura de repetição com variavél de controle, a gente usa quando 
 
 while faz o teste lógico no início e sendo verdadeiro ele executa o bloco de código
 
-do...while primeiro executa o bloco e depois faz o teste lógico
+do...while primeiro executa o bloco e depois faz o teste lógico, garantindo que a instrução será executada pelo menos 1 vez. 
 
 
 2. Comandos especiais
